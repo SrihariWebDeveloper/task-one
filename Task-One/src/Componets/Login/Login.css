@@ -1,0 +1,17 @@
+.contact{
+    background-color: rgb(174, 174, 212);
+    width: 400px;
+    height: 60%;
+    border-radius: 10px;
+    font-weight: bold;
+}
+.contact .form-fild{
+    margin: 30px 30px;
+}
+.form-fild h2{
+    text-align: center;
+    padding-top: 10px;
+}
+.form-fild .btn{
+    padding-bottom: 10px;
+}
